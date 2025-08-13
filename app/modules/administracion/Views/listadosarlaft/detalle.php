@@ -1,0 +1,2 @@
+<div align="right" style="padding: 10px;"><a href="/administracion/listadosarlaft/"><button class="btn btn-primary">regresar</button></a></div>
+<?php echo "<embed width='100%' height='600' src='/page/sarlaft/?documento=".$_GET['documento']."&mod=detalle_solicitud'></embed>"; ?>
